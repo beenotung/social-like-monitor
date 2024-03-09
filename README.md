@@ -1,6 +1,6 @@
 # social-like-monitor
 
-開發教學錄影: [[教學示範] 用植入式代碼 (script injection) 的方法從社交媒體網站抓取 post liker 數據](https://youtu.be/QOaaYdV0b-s)
+開發教學錄影: [[教學示範] 用植入式代碼 (script injection) 從社交媒體網站抓取 post liker 數據](https://youtu.be/QOaaYdV0b-s)
 
 🔍 在本教學影片中，我們將展示如何使用植入式代碼（script injection）的方法，從社交媒體網站抓取 post liker 數據。這種方法可以幫助您從社交媒體平台上獲取有用的數據，並將其轉換為數據分析或其他用途。
 
